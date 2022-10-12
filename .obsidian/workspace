@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "771a4b231fa8d04f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f747acbc8b17692",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Без названия 3.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3aeed3350255117b",
+    "type": "split",
+    "children": [
+      {
+        "id": "44ebb4b29871f252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "825b1eaf8571f9ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14a4b32afc530274",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15a4a1b94d233600",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "786dbfb1afcdd079",
+    "type": "split",
+    "children": [
+      {
+        "id": "30fe11353f188f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be3aa2261e7daa8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Без названия 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "216fd01430d282ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Без названия 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "534fb0c10f765c44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4511663f1546fea0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Без названия 3.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2f747acbc8b17692",
+  "lastOpenFiles": [
+    "Без названия 2.md",
+    "Git1.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "resizing.md"
+  ]
+}
